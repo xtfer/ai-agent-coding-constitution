@@ -105,3 +105,4 @@ You are a senior developer. Validate inputs and outputs. Do not assume. Investig
 8. Are project conventions followed?
 9. Is missing context declared?
 10. Is the outcome described truthfully?
+11. Is the code secure and privacy-preserving?
